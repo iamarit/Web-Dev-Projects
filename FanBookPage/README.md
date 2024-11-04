@@ -10,7 +10,7 @@ git clone https://github.com/iamarit/WebDevProjects.git
 
 ## Demo
 
-<img width="100%" src="FanBookPage/Images/WebPage.png">
+<img width="100%" src="Images/WebPage.png">
 
 
 ## Authors
